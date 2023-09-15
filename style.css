@@ -1,0 +1,17 @@
+html{
+    max-width: 960px;
+    font-size: 16px;
+    line-height: 1.25;
+    background-color: rgb(28, 4, 33);
+    color: antiquewhite;
+}
+img{
+    max-width: 200px;
+}
+figure{
+    padding: 5%;
+}
+figcaption{
+    font-size: 80%;
+    font-family: sans-serif;
+}
